@@ -55,3 +55,9 @@ git push origin feature/your-feature-name
 - Be prepared to receive feedback on your merge request.
 - Make any necessary changes as requested by the maintainers.
 - Ensure that your code passes all tests and linters.
+
+### Coding Rules
+
+To ensure consistency throughout the source code, keep these rules in mind as you are working:
+- All features or bug fixes must be tested by one or more specs (unit-tests).
+- We follow Google's [JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html), but wrap all code at 100 characters
